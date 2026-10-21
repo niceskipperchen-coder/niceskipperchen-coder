@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/skate-banner.svg" alt="Skipper Chen — Building things for fun. An animated skateboard rolls and jumps across the banner." width="100%" />
+  <img src="assets/skate-banner-clean.svg" alt="Skipper Chen — Building things for fun. An animated skateboard rolls and jumps across the banner." width="100%" />
 </p>
 
 <img align="right" src="assets/skipper-skate-avatar.png" alt="Skipper’s skateboard avatar" width="140" />
@@ -45,4 +45,3 @@ A browser-based SCARA-style robot with three positioning axes, an opening grippe
 - Includes 17 automated tests and documentation of the model's assumptions.
 
 Built with JavaScript and Three.js. I'm using this project as a starting point for studying robot kinematics and documenting my own experiments and improvements.
-
