@@ -25,6 +25,21 @@ I want to understand both the physical mechanism and the code behind it: how a m
 
 My goal is to use this space to document the whole process: the question behind a project, design choices, experiments, what fails, and what changes as a result.
 
+### Featured project · Robot Playground
+
+Program a 3D robot in the browser, solve pick-and-place challenges, and share your own layouts and programs by link.
+
+[**Open Robot Playground →**](https://niceskipperchen-coder.github.io/robot-playground/) · [Code and documentation](https://github.com/niceskipperchen-coder/robot-playground)
+
+[![Robot Playground code editor and 3D workspace](https://raw.githubusercontent.com/niceskipperchen-coder/robot-playground/main/preview.png)](https://niceskipperchen-coder.github.io/robot-playground/)
+
+- CodeMirror editor with autocomplete, execution highlighting, and line-specific errors.
+- Run, pause, resume, and step through a bounded robot command language.
+- Three built-in challenges, a custom challenge builder, and shareable links.
+- Tested parser, simulator, sharing, and challenge completion, with 30 automated tests.
+
+Built with JavaScript, CodeMirror, and Three.js, with Codex assistance. This extends my simulator into a programming environment for exploring interpreters, execution state, and robot control.
+
 ### Featured project · 3D robotic arm simulator
 
 A browser-based SCARA-style robot with three positioning axes, an opening gripper, and interactive pick-and-place.
