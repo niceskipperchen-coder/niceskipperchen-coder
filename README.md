@@ -1,29 +1,20 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Skipper Chen — exploring mechatronics, where mechanics, electronics, and code meet" width="100%" />
+  <img src="assets/skate-banner.svg" alt="Skipper Chen — Building things for fun. An animated skateboard rolls and jumps across the banner." width="100%" />
 </p>
 
-<p align="center">
-  <b>MECHANICAL SYSTEMS &nbsp; / &nbsp; ELECTRONICS & CONTROL &nbsp; / &nbsp; COMPUTING</b>
-</p>
+<img align="right" src="assets/skipper-skate-avatar.png" alt="Skipper’s skateboard avatar" width="140" />
 
-## Hi, I'm Skipper
+## Hey, I'm Skipper 👋
 
-I'm an aspiring mechatronics engineering student interested in how mechanical systems, electronics, and software come together to make machines work.
+**Building things for fun.**
 
-I want to understand both the physical mechanism and the code behind it: how a machine moves, how it senses its surroundings, and how it decides what to do next.
+I'm a student at **Semiahmoo Secondary School** in **South Surrey, BC, Canada**. I'm interested in mechatronics: how mechanics, electronics, and code come together to make things move.
 
-### What interests me
+Right now, I'm exploring robotics through browser simulations and programming projects. This is where I share what I'm making and learning along the way.
 
-| Mechanics | Electronics & control | Computing |
-| :--- | :--- | :--- |
-| Mechanisms, motion, and mechanical design | Sensors, circuits, and feedback | Programming, automation, and intelligent systems |
-| How do we turn an idea into a working mechanism? | How can a machine sense and respond? | How can code connect decisions to physical actions? |
+`he/him` · `mechatronics` · `robotics` · `programming`
 
-### My engineering approach
-
-**Ask → Design → Build → Test → Improve**
-
-My goal is to use this space to document the whole process: the question behind a project, design choices, experiments, what fails, and what changes as a result.
+---
 
 ### Featured project · Robot Playground
 
@@ -58,4 +49,4 @@ Built with JavaScript and Three.js. I'm using this project as a starting point f
 
 ---
 
-<p align="center"><sub>Curious about how things move. Interested in what makes them think.</sub></p>
+<p align="center"><sub>Build. Break. Learn. Keep rolling.</sub></p>

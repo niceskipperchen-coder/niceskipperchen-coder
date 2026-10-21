@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Skipper Chen — Building things for fun.</title><desc id="desc">A lime skateboard rolls across a dark engineering grid, jumps and spins, then loops.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#243342" stroke-width=".7"/></pattern><radialGradient id="glow"><stop stop-color="#b8e58a" stop-opacity=".12"/><stop offset="1" stop-color="#101923" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="420" rx="20" fill="#101923"/><rect width="1200" height="420" rx="20" fill="url(#grid)"/><ellipse cx="1000" cy="200" rx="390" ry="290" fill="url(#glow)"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="64" y="69" fill="#c9ee94" font-size="13" letter-spacing="4">SKIPPER CHEN / PERSONAL WORKSPACE</text><text x="60" y="151" fill="#f1f5ee" font-size="66" font-weight="700" letter-spacing="-3">Building things</text><text x="60" y="224" fill="#c9ee94" font-size="66" font-weight="700" letter-spacing="-3">for fun.</text><text x="64" y="269" fill="#a0afbe" font-size="18">Code. Motion. A little trial and error.</text><text x="64" y="386" fill="#8295a5" font-size="12" letter-spacing="2">MECHATRONICS · ROBOTICS · PROGRAMMING</text><text x="1136" y="386" text-anchor="end" fill="#c9ee94" font-size="12" letter-spacing="2">KEEP ROLLING ↗</text></g>
+<g stroke="#c9ee94" fill="none" opacity=".35"><circle cx="1025" cy="155" r="68" stroke-dasharray="4 10"/><path d="M940 155h170M1025 70v170"/><circle cx="1025" cy="155" r="40"/><path d="M990 184l70-58m-70 0 70 58"/></g>
+<path d="M64 342H1136" stroke="#364855" stroke-width="2"/>
+<g><animateTransform attributeName="transform" type="translate" values="-150 0;360 0;510 0;690 0;1350 0;1350 0" keyTimes="0;.32;.43;.55;.94;1" dur="7s" repeatCount="indefinite"/>
+<ellipse cx="0" cy="342" rx="60" ry="4" fill="#000" opacity=".4"><animate attributeName="rx" values="60;60;30;60;60" keyTimes="0;.32;.43;.55;1" dur="7s" repeatCount="indefinite"/></ellipse>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 -87;0 0;0 0" keyTimes="0;.32;.43;.55;1" dur="7s" repeatCount="indefinite"/>
+<g transform="translate(0 322)"><g><animateTransform attributeName="transform" type="rotate" values="0;0;-25;360;360" keyTimes="0;.32;.39;.55;1" dur="7s" repeatCount="indefinite"/>
+<path d="M-66-13Q-55 1-39 1H39Q55 1 66-13" fill="#c9ee94" stroke="#101923" stroke-width="3" stroke-linecap="round"/><path d="M-52-6H52" stroke="#e1ffc0" stroke-width="3"/><path d="M-36 2v8m72-8v8" stroke="#7c939f" stroke-width="5"/>
+<g fill="#101923" stroke="#c9ee94" stroke-width="3"><circle cx="-36" cy="10" r="8"/><circle cx="36" cy="10" r="8"/></g>
+<g stroke="#c9ee94" stroke-width="2"><g transform="translate(-36 10)"><path d="M-5 0H5M0-5V5"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur=".4s" repeatCount="indefinite"/></path></g><g transform="translate(36 10)"><path d="M-5 0H5M0-5V5"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur=".4s" repeatCount="indefinite"/></path></g></g>
+</g></g></g><path d="M-120 316h30m-45 11h35" stroke="#c9ee94" opacity=".45" stroke-width="2" stroke-linecap="round"/></g>
+</svg>
