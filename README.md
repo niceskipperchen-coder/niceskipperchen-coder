@@ -38,7 +38,7 @@ Program a 3D robot in the browser, solve pick-and-place challenges, and share yo
 - Three built-in challenges, a custom challenge builder, and shareable links.
 - Tested parser, simulator, sharing, and challenge completion, with 30 automated tests.
 
-Built with JavaScript, CodeMirror, and Three.js, with Codex assistance. This extends my simulator into a programming environment for exploring interpreters, execution state, and robot control.
+Built with JavaScript, CodeMirror, and Three.js. This extends my simulator into a programming environment for exploring interpreters, execution state, and robot control.
 
 ### Featured project · 3D robotic arm simulator
 
@@ -53,7 +53,7 @@ A browser-based SCARA-style robot with three positioning axes, an opening grippe
 - Explore forward/inverse kinematics, reach limits, and position error.
 - Includes 17 automated tests and documentation of the model's assumptions.
 
-Built with JavaScript and Three.js, with Codex assistance. I'm using this project as a starting point for studying robot kinematics and documenting my own experiments and improvements.
+Built with JavaScript and Three.js. I'm using this project as a starting point for studying robot kinematics and documenting my own experiments and improvements.
 
 
 ---
