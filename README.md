@@ -46,7 +46,3 @@ A browser-based SCARA-style robot with three positioning axes, an opening grippe
 
 Built with JavaScript and Three.js. I'm using this project as a starting point for studying robot kinematics and documenting my own experiments and improvements.
 
-
----
-
-<p align="center"><sub>Build. Break. Learn. Keep rolling.</sub></p>
