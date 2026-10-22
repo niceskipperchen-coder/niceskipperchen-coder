@@ -16,6 +16,18 @@ Right now, I'm exploring robotics through browser simulations and programming pr
 
 ---
 
+### Featured project · Watch & Fix
+
+A coding-agent skill for investigating bugs from screen recordings and voice notes. It guides the agent through timestamped evidence, reproduction, a focused fix, and a replay of the original interaction.
+
+[**Get Watch & Fix →**](https://github.com/niceskipperchen-coder/watch-and-fix) · [Watch the 25-second demo](https://github.com/niceskipperchen-coder/watch-and-fix/blob/main/assets/watch-and-fix-demo.mp4)
+
+[![Watch & Fix demo](https://raw.githubusercontent.com/niceskipperchen-coder/watch-and-fix/main/assets/demo-preview.png)](https://github.com/niceskipperchen-coder/watch-and-fix/blob/main/assets/watch-and-fix-demo.mp4)
+
+- Reusable skill instructions for Codex and Claude Code.
+- Local Python + FFmpeg helper extracts timestamped frames and optional audio.
+- Seven automated checks, including real-media extraction and partial-failure recovery.
+
 ### Featured project · Robot Playground
 
 Program a 3D robot in the browser, solve pick-and-place challenges, and share your own layouts and programs by link.
